@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Steph Abegg. A seasoned and detail-oriented professional with expertise in data science and mathematics,
+- 👋 Hi, I’m Steph(anie) Abegg. A seasoned and detail-oriented professional with expertise in data science and mathematics,
   I am skilled in collecting, manipulating, analyzing, and interpreting complex data sets, developing analysis tools,
   deriving actionable insights, and driving informed decision-making. I excel in numerical methods, statistical analysis,
   mathematical modeling, predictive analytics techniques, and coding. I am adept at conveying technical concepts to
