@@ -6,6 +6,8 @@
 
 - 👀 I’m interested in data, math, and climbing big rocks.
 
+- Here is my github.io page with my resume and expereince: https://sabegg2.github.io/
+
 <!---
 sabegg2/sabegg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
