@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in data, math, and climbing big rocks.
 
-- 👩 Here is my github.io page with my resume and expereince: https://sabegg2.github.io/
+- 👩 Here is my CV: [Steph's CV](https://drive.google.com/file/d/1FdCAO3whIMbX7aawVXj25fsEMoG6BvU0/view?usp=drive_link)
 
 <!---
 sabegg2/sabegg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
