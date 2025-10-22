@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Steph(anie) Abegg. A seasoned and detail-oriented professional with expertise in data science and mathematics,
-  I am skilled in collecting, manipulating, analyzing, and interpreting complex data sets, developing analysis tools,
-  deriving actionable insights, and driving informed decision-making. I excel in numerical methods, statistical analysis,
-  mathematical modeling, predictive analytics techniques, and coding. I am adept at conveying technical concepts to
-  non-technical stakeholders with clarity through teaching and communication.
+- 👋 Hi, I’m Steph(anie) Abegg. I am a data analyst with a strong foundation in math and a knack for making complex ideas make sense. I have taught university-level math—mostly calculus—which really sharpened my ability to communicate clearly and break down tough concepts. My path has included a few master’s degrees in technical fields, time in the classroom, and a couple years working at a startup where I wore a lot of hats and tackled real-world data problems. I recently completed a data analytics bootcamp to strengthen my skills with tools like Python, SQL, and Tableau. I love digging into data, spotting patterns, and turning information into insights people can actually use. <img width="468" height="88" alt="image" src="https://github.com/user-attachments/assets/7b9e021d-a653-4bb4-b9f0-da5addfa3932" />
+
 
 - 👀 I’m interested in data, math, and climbing big rocks.
 
